@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\bin\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.deps.json
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\bin\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.runtimeconfig.json
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\bin\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\bin\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.dll
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\bin\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.pdb
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\obj\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\obj\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\obj\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\obj\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\obj\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.dll
+C:\Users\fic\Desktop\senai-backend-c-\Aula 8\aula-8_manipulacao-por-terminal\Exemplo\obj\Debug\netcoreapp2.2\aula-8_manipulacao-por-terminal.pdb
